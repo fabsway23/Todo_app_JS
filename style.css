@@ -125,6 +125,7 @@ select{
     pointer-events: none;
     color:#ff6f47;
     transition:all 0.3s ease-in-out 
+}
 
 }
 .select:hover::after{
